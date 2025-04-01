@@ -39,7 +39,7 @@ const MobileNav = () => {
                     }
                     className='flex items-center w-full font-medium text-xl text-white'
                     href='/proyecto'>
-                    Proyecto
+                   ¿Quiénes somos?
                   </Link>
                 </li>
                 <li className='my-3 h-px w-full bg-zinc-700' />

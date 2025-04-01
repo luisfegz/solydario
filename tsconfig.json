@@ -37,7 +37,7 @@
     ".next/types/app/(main)/juguetes/page.tsx",
     ".next/types/app/(main)/accesorios/page.tsx",
     "src/app/page.js"
-, "components/global/Featured.js", "components/global/NewProducts.js"  ],
+, "components/global/Featured.js", "components/global/NewProducts.js", "src/pages/index.js", "src/pages/contactanos.js", "src/pages/energia.js"  ],
   "exclude": [
     "node_modules"
   ]

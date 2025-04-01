@@ -18,9 +18,9 @@ export function LampComponentAccesorios() {
         }}
         className="mt-[446px] md:mt-[440px] bg-gradient-to-br from-neutral-300 to-neutral-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
-        Proyecto
+        ¿Quiénes somos?
       </motion.h1>
-    </LampContainer>
+  </LampContainer>
   )
 }
 
@@ -34,7 +34,7 @@ export const LampContainer = ({
   return (
     <div
       className={cn(
-        'relative flex min-h-[800px] flex-col items-center justify-center overflow-hidden bg-neutral-950 w-full z-0',
+        'relative flex md:min-h-[1050px] sm:min-h-[400px] flex-col items-center justify-center overflow-hidden bg-neutral-950 w-full z-0',
         className
       )}
     >

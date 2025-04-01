@@ -44,7 +44,7 @@ const Navbar = () => {
                             size: 'sm',
                         })}
                     >
-                      Proyecto
+                      ¿Quiénes somos?
                     </Link>
                 </li>
                 <li>
